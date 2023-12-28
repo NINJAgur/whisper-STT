@@ -1,4 +1,4 @@
-# ________________________ This repo is based on the repository https://github.com/fizamusthafa/whisper-app ________________________
+# This repo is based on the repository https://github.com/fizamusthafa/whisper-app
 
 # Multi-lingual Transcription using Whisper
 
